@@ -1,10 +1,11 @@
+
 # To-Do-List
 In this assignment, you will design and implement a to-do list application that allows users to add, edit, and delete tasks. The application should provide a user-friendly interface and should be responsive to different screen sizes.
 This is a To-Do List App. It helps you remember things you need to do.
 You can write a task, like:
-•“drink water”
-•“do workout”
-•“arrange your cupboard”
+•“Drink water”
+•“Do workout”
+•“Arrange your cupboard”
 And the app will keep track of them for you.
 You can add, edit, delete, or mark tasks as done. Even if you close the app or refresh the page, your tasks will stay saved.
 How to Use / How to Play
@@ -12,7 +13,7 @@ How to Use / How to Play
 2.Add a task
 Type what you want to remember in the box.
 Click the Add button.
-Example: type "do workout" → click Add → it will appear in the list.
+Example: type "Do workout" → click Add → it will appear in the list.
 3.Mark as completed
 Click on a task text.
 It gets a line on it (✔ means done).
